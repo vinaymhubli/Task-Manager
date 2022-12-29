@@ -1,16 +1,16 @@
 # Task-Manager🤹🏽‍♂️
 This Project is mainly based on the Creation of the Task Management UI using Flutter
 # Technical Outline 📕
-❶ Splash\
-❷ on boarding\
-❸ login\
-❹ forgot password\
-❺ reset password\
-❻ password changed success\
-❼ signup\
-❽ home page\
-❾ new task\
-❿ new quick note\
+❶ Splash Page\
+❷ on boarding Page\
+❸ login Page\
+❹ forgot password Page\
+❺ reset password Page\
+❻ password changed success Page\
+❼ signup Page\
+❽ home Page\
+❾ new task Page\
+❿ new quick note Page\
 ⓫ new checklist
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/190839782-e7ba205a-b3cf-4215-a413-7d6d6a18030d.mp4
